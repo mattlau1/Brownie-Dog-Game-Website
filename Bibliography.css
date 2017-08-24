@@ -238,3 +238,35 @@ text-align: center;
 bottom: 1;
 font-family: 'Roboto', sans-serif;
 }
+
+h1 {
+ line-height: 0px;
+ margin-top: 5px;
+ float: center;
+ margin-left: 50%;
+ text-shadow: 0px 0px 20px rgb(94, 217, 255); 
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    /*color: hotpink;*/
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
+}

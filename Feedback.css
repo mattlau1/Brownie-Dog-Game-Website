@@ -59,7 +59,7 @@ html{
   border-radius: 10px;
   font-family: 'Roboto', sans-serif;
 
-}
+}   
 img {
   z-index: -1;
 }
@@ -233,7 +233,7 @@ footer {
 position: relative;
 height: 20px;
 width: 100%;
- 
+            
 }
 
 p.copyright {
